@@ -47,8 +47,11 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![exp3 empd1](https://github.com/user-attachments/assets/a7b03e1d-5279-43e9-ba03-417c6f49b912)
+![exp3 empd2](https://github.com/user-attachments/assets/36869dfc-07ec-457d-8f53-a25103c10e28)
+
+### Name: supriya SJ
+### Register Number:24001109
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
